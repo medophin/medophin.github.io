@@ -1,5 +1,6 @@
 {
   "name": "medophin.github.io",
+  "homepage": "https://medophin.github.io/medophin.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,6 +11,7 @@
     "antd": "^4.8.4",
     "customize-cra": "^1.0.0",
     "enquire-js": "^0.2.1",
+    "gh-pages": "^3.1.0",
     "less": "^3.12.2",
     "less-loader": "^7.1.0",
     "rc-banner-anim": "^2.4.5",
@@ -23,6 +25,8 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
