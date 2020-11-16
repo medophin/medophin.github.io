@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/medophin.github.io/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/medophin.github.io/static/js/main.174e2d62.chunk.js",
-    "main.js.map": "/medophin.github.io/static/js/main.174e2d62.chunk.js.map",
-    "runtime-main.js": "/medophin.github.io/static/js/runtime-main.6627379a.js",
-    "runtime-main.js.map": "/medophin.github.io/static/js/runtime-main.6627379a.js.map",
-    "static/js/2.773dd622.chunk.js": "/medophin.github.io/static/js/2.773dd622.chunk.js",
-    "static/js/2.773dd622.chunk.js.map": "/medophin.github.io/static/js/2.773dd622.chunk.js.map",
-    "static/js/3.c1da4963.chunk.js": "/medophin.github.io/static/js/3.c1da4963.chunk.js",
-    "static/js/3.c1da4963.chunk.js.map": "/medophin.github.io/static/js/3.c1da4963.chunk.js.map",
+    "main.css": "/medophin.github.io/static/css/main.ed510af0.chunk.css",
+    "main.js": "/medophin.github.io/static/js/main.ca247b6c.chunk.js",
+    "main.js.map": "/medophin.github.io/static/js/main.ca247b6c.chunk.js.map",
+    "runtime-main.js": "/medophin.github.io/static/js/runtime-main.6477f307.js",
+    "runtime-main.js.map": "/medophin.github.io/static/js/runtime-main.6477f307.js.map",
+    "static/css/2.6ce759ad.chunk.css": "/medophin.github.io/static/css/2.6ce759ad.chunk.css",
+    "static/js/2.f78a5c2e.chunk.js": "/medophin.github.io/static/js/2.f78a5c2e.chunk.js",
+    "static/js/2.f78a5c2e.chunk.js.map": "/medophin.github.io/static/js/2.f78a5c2e.chunk.js.map",
+    "static/js/3.d3b25842.chunk.js": "/medophin.github.io/static/js/3.d3b25842.chunk.js",
+    "static/js/3.d3b25842.chunk.js.map": "/medophin.github.io/static/js/3.d3b25842.chunk.js.map",
     "index.html": "/medophin.github.io/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/medophin.github.io/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.773dd622.chunk.js.LICENSE.txt": "/medophin.github.io/static/js/2.773dd622.chunk.js.LICENSE.txt",
-    "static/media/antMotionStyle.8375495e.less": "/medophin.github.io/static/media/antMotionStyle.8375495e.less",
-    "static/media/logo.103b5fa1.svg": "/medophin.github.io/static/media/logo.103b5fa1.svg"
+    "static/css/2.6ce759ad.chunk.css.map": "/medophin.github.io/static/css/2.6ce759ad.chunk.css.map",
+    "static/css/main.ed510af0.chunk.css.map": "/medophin.github.io/static/css/main.ed510af0.chunk.css.map",
+    "static/js/2.f78a5c2e.chunk.js.LICENSE.txt": "/medophin.github.io/static/js/2.f78a5c2e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6627379a.js",
-    "static/js/2.773dd622.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.174e2d62.chunk.js"
+    "static/js/runtime-main.6477f307.js",
+    "static/css/2.6ce759ad.chunk.css",
+    "static/js/2.f78a5c2e.chunk.js",
+    "static/css/main.ed510af0.chunk.css",
+    "static/js/main.ca247b6c.chunk.js"
   ]
 }
