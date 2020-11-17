@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/medophin.github.io/static/css/main.ed510af0.chunk.css",
-    "main.js": "/medophin.github.io/static/js/main.ca247b6c.chunk.js",
-    "main.js.map": "/medophin.github.io/static/js/main.ca247b6c.chunk.js.map",
-    "runtime-main.js": "/medophin.github.io/static/js/runtime-main.6477f307.js",
-    "runtime-main.js.map": "/medophin.github.io/static/js/runtime-main.6477f307.js.map",
-    "static/css/2.6ce759ad.chunk.css": "/medophin.github.io/static/css/2.6ce759ad.chunk.css",
-    "static/js/2.f78a5c2e.chunk.js": "/medophin.github.io/static/js/2.f78a5c2e.chunk.js",
-    "static/js/2.f78a5c2e.chunk.js.map": "/medophin.github.io/static/js/2.f78a5c2e.chunk.js.map",
-    "static/js/3.d3b25842.chunk.js": "/medophin.github.io/static/js/3.d3b25842.chunk.js",
-    "static/js/3.d3b25842.chunk.js.map": "/medophin.github.io/static/js/3.d3b25842.chunk.js.map",
+    "main.css": "/medophin.github.io/static/css/main.ba26ec3a.chunk.css",
+    "main.js": "/medophin.github.io/static/js/main.69a1e3c9.chunk.js",
+    "main.js.map": "/medophin.github.io/static/js/main.69a1e3c9.chunk.js.map",
+    "runtime-main.js": "/medophin.github.io/static/js/runtime-main.29b5e104.js",
+    "runtime-main.js.map": "/medophin.github.io/static/js/runtime-main.29b5e104.js.map",
+    "static/css/2.1db4730a.chunk.css": "/medophin.github.io/static/css/2.1db4730a.chunk.css",
+    "static/js/2.db694089.chunk.js": "/medophin.github.io/static/js/2.db694089.chunk.js",
+    "static/js/2.db694089.chunk.js.map": "/medophin.github.io/static/js/2.db694089.chunk.js.map",
+    "static/js/3.48c20440.chunk.js": "/medophin.github.io/static/js/3.48c20440.chunk.js",
+    "static/js/3.48c20440.chunk.js.map": "/medophin.github.io/static/js/3.48c20440.chunk.js.map",
     "index.html": "/medophin.github.io/index.html",
-    "static/css/2.6ce759ad.chunk.css.map": "/medophin.github.io/static/css/2.6ce759ad.chunk.css.map",
-    "static/css/main.ed510af0.chunk.css.map": "/medophin.github.io/static/css/main.ed510af0.chunk.css.map",
-    "static/js/2.f78a5c2e.chunk.js.LICENSE.txt": "/medophin.github.io/static/js/2.f78a5c2e.chunk.js.LICENSE.txt"
+    "static/css/2.1db4730a.chunk.css.map": "/medophin.github.io/static/css/2.1db4730a.chunk.css.map",
+    "static/css/main.ba26ec3a.chunk.css.map": "/medophin.github.io/static/css/main.ba26ec3a.chunk.css.map",
+    "static/js/2.db694089.chunk.js.LICENSE.txt": "/medophin.github.io/static/js/2.db694089.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6477f307.js",
-    "static/css/2.6ce759ad.chunk.css",
-    "static/js/2.f78a5c2e.chunk.js",
-    "static/css/main.ed510af0.chunk.css",
-    "static/js/main.ca247b6c.chunk.js"
+    "static/js/runtime-main.29b5e104.js",
+    "static/css/2.1db4730a.chunk.css",
+    "static/js/2.db694089.chunk.js",
+    "static/css/main.ba26ec3a.chunk.css",
+    "static/js/main.69a1e3c9.chunk.js"
   ]
 }
