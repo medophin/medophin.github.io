@@ -2,18 +2,18 @@ import React from 'react';
 
 export const page1 = [
   {
-    title: '轻松建站',
-    content: '支持可视化编辑、自由拖拽排版、实时预览、在线访问加速等功能',
+    title: '輕鬆打包',
+    content: '將Web快速轉換Mobile App, iOS,Android 雙平台!',
     src: 'https://gw.alipayobjects.com/zos/rmsportal/MmROsqZndrFBrIspzLlL.png',
   },
   {
-    title: '数据分析',
-    content: '网站内设有数据监测埋点，助你时刻掌握站点效果，鉴别有效渠道',
+    title: '用戶通知',
+    content: '推播通知，通知您的用戶隨時重回您的服務．',
     src: 'https://gw.alipayobjects.com/zos/rmsportal/ONvKhpRAmkCfdEhkUZkJ.png',
   },
   {
-    title: '企业协同',
-    content: '企业版支持以团队管理的方式，多人协作完成营销站点，共享资源',
+    title: '行銷分析',
+    content: 'App留存率妥善分析',
     src: 'https://gw.alipayobjects.com/zos/rmsportal/oxmXLgGjCeXfYPcVSbKg.png',
   },
 ];
@@ -21,8 +21,8 @@ export const page1 = [
 export const page2 = [
   {
     title: '端午节',
-    url: 'https://render.alipay.com/p/f/fd-jauizbz9/index.html',
-    image: 'https://gw.alipayobjects.com/zos/rmsportal/VMhxnfHxvCgksDCnbfQX.jpg',
+    url: 'https://meet.jobs/zh-TW',
+    image: 'https://meet.jobs/static/media/logo_single.8c47e036.svg',
   },
   {
     title: '余额宝4周年',
@@ -38,9 +38,9 @@ export const page2 = [
 
 export const page3 = [
   {
-    title: '个人版',
+    title: '基礎版',
     content: [
-      <p key="1">支持 H5 站点制作</p>,
+      <p key="1">iOS, Android</p>,
       <p key="2">支持模板管理</p>,
       <p key="3">支持数据分析</p>,
     ],
@@ -247,5 +247,5 @@ export const footer = [
   { text: '使用帮助', src: '#' },
   { text: '模板开发文档', src: '#' },
   { text: '模板开发工具', src: '#' },
-  { text: '联系我们', src: 'mailto:zhao.wuz@antfin.com' },
+  { text: '聯繫我們', src: 'mailto:medophin@gmail.com' },
 ];
